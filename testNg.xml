@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Univadis and Automation Practice Project" verbose="1">
+	<test name=" Univadis and Automation Practice Project">
+
+		<classes>
+			<class name="com.univadis.tests.LoginPageTest" />
+            <class name="com.automationpractice.tests.LoginTest" />
+		</classes>
+	</test>
+
+
+</suite>
